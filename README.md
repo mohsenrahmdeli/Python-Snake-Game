@@ -1,0 +1,2 @@
+Requirement:
+pip install pygame
